@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Narnia",
+        "image" : "assets/images/book.jpg",
+        "author" : "C.S Lewis",
+        "price" : 20,
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+    },
+    {
+        "name" : "The Two Towers",
+        "image" : "assets/images/book2.jpg",
+        "author" : "Mark Manson",
+        "price" : 50,
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+    },
+    {
+        "name" : "James Branch Cabel",
+        "image" : "assets/images/book3.jpg",
+        "author" : "James Cole",
+        "price" : 70,
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+    },
+    {
+        "name" : "Harry Potter",
+        "image" : "assets/images/book4.jpg",
+        "author" : "J.K Rowling",
+        "price" : 100,
+        "description" : "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+    }
+]
